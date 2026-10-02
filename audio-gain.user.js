@@ -4,6 +4,7 @@
 // @version      2026-05-17
 // @description  A lightweight userscript that adds audio gain control and volume boosting to web video players for a better listening experience.
 // @author       TheReVeaLz
+// @run-at       document-start
 // @match        https://reanime.to/*
 // @include      https://flixcloud.*
 // @require      https://cdn.jsdelivr.net/npm/toastify-js
